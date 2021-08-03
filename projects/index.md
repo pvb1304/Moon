@@ -1,6 +1,6 @@
 ---
-layout: project
-title: All Projects
-excerpt: "A List of Projects"
+layout: publish
+title: Publications
+excerpt: "A List of Publications"
 comments: false
 ---
