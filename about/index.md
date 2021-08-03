@@ -10,9 +10,11 @@ comments: false
 
 ## Education
 <b>M.Tech. - Ph.D., Data and Computational Sciences (2019 ~ ) </b> \\
-IIT Jodhpur \\(Advisors: Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay)\\
+IIT Jodhpur \\
+(Advisors: Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay)\\
 <b>B.Tech., Computer Engineering (2014 ~2018) </b> \\
-IIITDM Kancheepuram \\(Advisor: Dr. Sivaselvan B)
+IIITDM Kancheepuram \\
+(Advisor: Dr. Sivaselvan B)
 
 
 ## Work Experience
