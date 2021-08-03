@@ -36,4 +36,4 @@ Interface design Associates Pvt. Ltd., Mumbai
 * ACM India Anveshan Setu Fellow, 2021
 
 ## Contact
-Email: bayari (dot) 1 (at) iitj (dot) ac (dot) in
+Email: bayari.1 (at) iitj.ac.in
