@@ -9,12 +9,13 @@ comments: false
 <img src= 'assets/img/image.jpg' width="50px" height="50px" >
 
 ## Education
-<b>M.Tech. - Ph.D., Data and Computational Sciences (2019 ~ ) </b> \\
-IIT Jodhpur \\
-(Advisors: Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay)\\
-<b>B.Tech., Computer Engineering (2014 ~2018) </b> \\
-IIITDM Kancheepuram \\
-(Advisor: Dr. Sivaselvan B)
+<b>Indian Institute of Technology, Jodhpur  </b> \\
+M.Tech. - Ph.D. in Data and Computational Sciences (2019 ~ ) \\
+Advisors: Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay\\
+<b>Indian Institute of Information Technology, </b> \\
+<b> Design and Manufacturing, Kancheepuram </b> \\
+B.Tech. in Computer Engineering (2014 ~2018) \\
+Advisor: Dr. Sivaselvan B
 
 
 ## Work Experience
