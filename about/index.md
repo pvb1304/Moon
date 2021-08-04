@@ -10,7 +10,7 @@ comments: false
 
 ## Education
 <b>Indian Institute of Technology, Jodhpur  </b> \\
-M.Tech. - Ph.D. in Data and Computational Sciences (July 2019 ~ ) \\
+M.Tech. - Ph.D. in Data and Computational Sciences (July 2019 - Present) \\
 Advisors: Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay\\
 <b>Indian Institute of Information Technology, </b> \\
 <b> Design and Manufacturing, Kancheepuram </b> \\
