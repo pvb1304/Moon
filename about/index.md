@@ -10,16 +10,16 @@ comments: false
 
 ## Education
 <b>Indian Institute of Technology, Jodhpur  </b> \\
-M.Tech. - Ph.D. in Data and Computational Sciences (2019 ~ ) \\
+M.Tech. - Ph.D. in Data and Computational Sciences (July 2019 ~ ) \\
 Advisors: Dr. Gaurav Bhatnagar and Dr. Chiranjoy Chattopadhyay\\
 <b>Indian Institute of Information Technology, </b> \\
 <b> Design and Manufacturing, Kancheepuram </b> \\
-B.Tech. in Computer Engineering (2014 ~2018) \\
+B.Tech. in Computer Engineering (July 2014 - May 2018) \\
 Advisor: Dr. Sivaselvan B
 
 
 ## Work Experience
-<b>Internship (05.2017-10.2017) </b> \\
+<b>Internship (May 2017 - Oct 2017) </b> \\
 Interface design Associates Pvt. Ltd., Mumbai
 - Developed Image processing based programming for lathe machine (Industry 4.0)
 - Created OpenGL based graphics for PC based CNC machine software
