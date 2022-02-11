@@ -6,7 +6,7 @@ date: 2021-08-03
 comments: false
 ---
 
-<img src= 'https://iitj.ac.in/uploaded_docs/dept_upload/maths/Vishnu_image-2020-04-28-16-16-pm.jpg' width="280" height="360" >
+<img src= 'https://iitj.ac.in/uploaded_docs/dept_upload/maths/Vishnu_image-2020-04-28-16-16-pm.jpg' width="50%" height="50%" >
 
 ## Education
 <b>Indian Institute of Technology, Jodhpur  </b> \\
